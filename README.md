@@ -2,6 +2,14 @@
 
 Lab #2 Answers...
 
+## Create a new project on your local machine then push it to your remote repo.
+
+![01](https://github.com/Keroles-Nady/ITI-VCS-Day2/assets/69374852/cf377e3f-6877-4ae9-a880-98343b8b4e60)
+
+
+## Create an annoted tag with tagname v1.4.
+
+![03](https://github.com/Keroles-Nady/ITI-VCS-Day2/assets/69374852/a0c1a980-d5eb-451c-9260-97742eb23600)
 
 
 
@@ -22,6 +30,7 @@ $ git branch -D test
 - Delete a remote Git branch
 ```
     # git push <remote> :<branch_name>
+![Screenshot from 2023-11-27 14-11-51](https://github.com/Keroles-Nady/ITI-VCS-Day2/assets/69374852/dff89689-4aff-4aac-8a4d-9218ea5e98c4)
 
 $ git push origin :test
 ```
